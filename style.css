@@ -1,0 +1,18 @@
+body{
+    background-color: #ffffcc;
+    height: 200px;
+    width: 200px;
+    margin: 15px 15px 15px 15px;
+    border: 2px inset red;
+    border-width: 5px;
+    padding: 2px;
+
+}
+p{
+    font-size: large;
+    font-family: 'Times New Roman';
+}
+p.emoji{
+    font-size: 46px;
+    text-align: center;
+}
